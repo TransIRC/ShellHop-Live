@@ -11,6 +11,10 @@ This project wraps a Docker container and live-build setup to generate a live IS
 - Connects to one of your configured relay nodes
 - Is fully customizable and reproducible
 
+
+![Splash screen](./splash.png)
+
+
 ✨ What Is ShellHop Live?
 ------------------------
 
